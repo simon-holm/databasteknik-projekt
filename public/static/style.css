@@ -1,0 +1,18 @@
+html {
+  background: black;
+  color: antiquewhite;
+}
+body {
+  background: black;
+  color: antiquewhite;
+}
+form input {
+  margin-bottom: 5px;
+}
+form textarea {
+  margin-bottom: 5px;
+}
+
+#appname {
+  font-family: 'Operator Mono';
+}

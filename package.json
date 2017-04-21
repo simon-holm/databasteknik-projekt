@@ -1,0 +1,46 @@
+{
+  "name": "databasteknik-projekt",
+  "version": "1.0.0",
+  "description": "Projektuppgift i kursen Databasteknik VT17",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://spixooze@github.com/spixooze/databasteknik-projekt.git"
+  },
+  "keywords": [
+    "Node",
+    "PostgreSQL"
+  ],
+  "author": "Alexander Lööf, Mikael Carlstein, Simon Holm",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1",
+    "pg": "*",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-router": "^2.8.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.5.1",
+    "babel-loader": "^6.2.2",
+    "babel-preset-es2015": "^6.5.0",
+    "babel-preset-react": "^6.5.0",
+    "babel-preset-stage-0": "^6.22.0",
+    "css-loader": "^0.23.1",
+    "foundation-sites": "^6.2.0",
+    "jquery": "^2.2.1",
+    "node-sass": "^4.5.0",
+    "sass-loader": "^6.0.1",
+    "script-loader": "^0.6.1",
+    "style-loader": "^0.13.0",
+    "webpack": "^1.12.13"
+  },
+  "bugs": {
+    "url": "https://github.com/spixooze/databasteknik-projekt/issues"
+  },
+  "homepage": "https://github.com/spixooze/databasteknik-projekt#readme"
+}
